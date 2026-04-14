@@ -172,7 +172,7 @@ export const SettingsStore = new SettingsStoreClass(settings, {
 if (!IS_REPORTER) {
     SettingsStore.addGlobalChangeListener((_, path) => {
         SettingsStore.plain.cloud.settingsSyncVersion = Date.now();
-        VencordNative.settings.set(SettingsStore.plain, path);
+        VencordNative.settings.set(/* This is really bad but it works */JSON.parse(JSON.stringify(SettingsStore.plain)), path);
     });
 }
 

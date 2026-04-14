@@ -100,6 +100,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Mai",
         id: 722647978577363026n
     },
+    echo: {
+        name: "ECHO",
+        id: 712639419785412668n
+    },
     amy: {
         name: "Amy",
         id: 603229858612510720n
@@ -277,6 +281,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "skyevg",
         id: 1090310844283363348n
     },
+    philhk: {
+        name: "philhk",
+        id: 305288513941667851n
+    },
     Dziurwa: {
         name: "Dziurwa",
         id: 1001086404203389018n
@@ -433,6 +441,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "coolelectronics",
         id: 696392247205298207n,
     },
+    MaxHerbold: {
+        name: "MaxHerbold",
+        id: 1189527130611138663n
+    },
     Av32000: {
         name: "Av32000",
         id: 593436735380127770n,
@@ -481,6 +493,26 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "icedmarina",
         id: 594406131670188042n
     },
+    Loukious: {
+        name: "Loukious",
+        id: 211461918127292416n
+    },
+    MutanPlex: {
+        name: "MutanPlex",
+        id: 506074187014602752n
+    },
+    keyages: {
+        name: "Key",
+        id: 1230319937155760131n
+    },
+    Fres: {
+        name: "fres",
+        id: 843448897737064448n
+    },
+    desu: {
+        name: "desu",
+        id: 526331463709360141n
+    },
     nakoyasha: {
         name: "nakoyasha",
         id: 222069018507345921n
@@ -504,6 +536,14 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     PolisanTheEasyNick: {
         name: "Oleh Polisan",
         id: 242305263313485825n
+    },
+    HAPPY_ENDERMAN: {
+        name: "Happy enderman",
+        id: 1083437693347827764n
+    },
+    SerStars: {
+        name: "SerStars",
+        id: 861631850681729045n
     },
     HAHALOSAH: {
         name: "HAHALOSAH",
@@ -577,10 +617,6 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Obsidian",
         id: 683171006717755446n,
     },
-    SerStars: {
-        name: "SerStars",
-        id: 861631850681729045n,
-    },
     niko: {
         name: "niko",
         id: 341377368075796483n,
@@ -612,6 +648,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     thororen: {
         name: "thororen",
         id: 848339671629299742n
+    },
+    camila314: {
+        name: "camila314",
+        id: 738592270617542716n
     },
     alfred: {
         name: "alfred",
